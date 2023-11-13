@@ -1,0 +1,24 @@
+.banner_titulo{
+    color: rgb(5, 5, 5);
+    font-family: lelacer ;
+    font-size: 4.8rem;
+    position: absolute;
+    left: 40%;
+    text-shadow: 0 4px 4px rgb(0, 0, 0, 0);
+    top: 30%;
+    text-align: justify;
+    transform: translate(-50%, -50%);
+    width: 60%;
+}
+.banner_descripcion{
+    color: rgb(6, 6, 6);
+    font-family: lelacer ;
+    font-size: 1.2rem;
+    position: absolute;
+    left: 40%;
+    text-shadow: 0 4px 4px rgba(244, 244, 244);
+    top: 45%;
+    text-align: justify;
+    transform: translate(-50%, -50%);
+    width: 60%;
+}
